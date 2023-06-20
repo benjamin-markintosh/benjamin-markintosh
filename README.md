@@ -1,9 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<img align="center" alt="header image" src="https://gifdb.com/gif/3d-fast-keyboard-typing-b1m81hlq3dy8k03w.html?embed=true">
+
 
 <h1 align="center">Hi 👋, I'm Mugumya Benjamin Okiza</h1>
 <h3 align="center">I am a Full-Stack Software Engineer and Logo Designer</h3>
-<img align="right" alt="Codinga" width="400" src="https://gifdb.com/gif/3d-fast-keyboard-typing-b1m81hlq3dy8k03w.html?embed=true">
+<!--<img align="right" alt="Codinga" width="400" src="https://gifdb.com/gif/3d-fast-keyboard-typing-b1m81hlq3dy8k03w.html?embed=true"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjamin-markintosh&label=Profile%20views&color=0e75b6&style=flat" alt="benjamin-markintosh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benjamin-markintosh" alt="benjamin-markintosh" /></a> </p>
