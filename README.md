@@ -1,4 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<img align="center" alt="header image" src="https://gifdb.com/gif/3d-fast-keyboard-typing-b1m81hlq3dy8k03w.html?embed=true">
 
 <h1 align="center">Hi 👋, I'm Mugumya Benjamin Okiza</h1>
 <h3 align="center">I am a Full-Stack Software Engineer and Logo Designer</h3>
