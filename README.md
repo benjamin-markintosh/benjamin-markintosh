@@ -1,4 +1,4 @@
-
+![github header](https://github.com/benjamin-markintosh/benjamin-markintosh/blob/main/benjie.png)
 
 <h1 align="center">Hi 👋, I'm Mugumya Benjamin Okiza</h1>
 <h3 align="center">I am a Full-Stack Software Engineer and Logo Designer</h3>
