@@ -1,4 +1,4 @@
-[![MasterHead](https://photos.google.com/search/_tra_/photo/AF1QipPRBWqXlg7_EhGmZ9xHqCfOUFZEWKawNN8iqEUm)](https://benjamin-markintosh.github.io/benjaminokiza/)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Mugumya Benjamin Okiza</h1>
 <h3 align="center">I am a Full-Stack Software Engineer and Logo Designer</h3>
