@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjamin-markintosh&label=Profile%20views&color=0e75b6&style=flat" alt="benjamin-markintosh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benjamin-markintosh" alt="benjamin-markintosh" /></a> </p>
-
+<p> <a href="https://wakatime.com/@1191a31b-13d9-411f-869c-954d847bf346"><img src="https://wakatime.com/badge/user/1191a31b-13d9-411f-869c-954d847bf346.svg" alt="Total time coded since Jun 29 2024" /></a></p>
 <p align="left"> <a href="https://twitter.com/benjaminmacinto" target="blank"><img src="https://img.shields.io/twitter/follow/benjaminmacinto?logo=twitter&style=for-the-badge" alt="benjaminmacinto" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript Mearn Stack**
